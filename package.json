@@ -1,6 +1,6 @@
 {
   "name": "marionette",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "Self-hosted isometric character mannequins for pixel art — posed, animated in 8 directions, exported to Procreate.",
   "license": "Unlicense",
